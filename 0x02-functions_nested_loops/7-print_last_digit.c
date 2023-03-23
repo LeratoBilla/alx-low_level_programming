@@ -2,9 +2,7 @@
 
 /**
  * print_last_digit - function that prints last digit
- * 
  * @i: function parameter
- *
  * Return: k
  */
 
